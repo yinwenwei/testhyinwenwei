@@ -99,7 +99,10 @@ entity,swagger-> util-> api --> manager	  :实现接口
 					    | 
 					   web:使用接口
 					   
-
+No qualifying bean of type [com.yyl.comment.repository.CommentMapper] found for dependency:
+ expected at least 1 bean which qualifies as autowire candidate for this dependency. 
+ Dependency annotations: 
+ {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
 
 	
 
