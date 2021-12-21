@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T07:23:53.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VxoFirE2byjcNYoy4fp3" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T10:47:54.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="q7HZ3ERCiDbIlsDVv5sm" version="16.0.0" type="github">
   <diagram id="Euu_QceIjtFikZF4ze-5" name="Page-1">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -470,6 +470,81 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1150" y="480" as="sourcePoint" />
             <mxPoint x="1250" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-224" value="DLR新增服务改善报告 - GTMC查收评价" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-365" value="DLR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1120" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-366" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1120" width="100" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-371" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="qzuz3q-X96KGlrMmshsN-366">
+          <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-383" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="qzuz3q-X96KGlrMmshsN-366">
+          <mxGeometry x="45" y="440" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-367" value="SKR管理前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1120" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-373" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="qzuz3q-X96KGlrMmshsN-367">
+          <mxGeometry x="45" y="240" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-368" value="GTMC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1120" width="100" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-369" value="共通组" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1120" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-379" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="qzuz3q-X96KGlrMmshsN-369">
+          <mxGeometry x="45" y="280" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-370" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1320" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-372" value="新增服务改善报告信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=13;strokeColor=#6C8EBF;strokeWidth=2;exitX=0.9;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qzuz3q-X96KGlrMmshsN-370" target="qzuz3q-X96KGlrMmshsN-371">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="1420" as="sourcePoint" />
+            <mxPoint x="340" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-374" value="校验缓存中是否存在数据，&lt;br&gt;如果缓存中存在保存信息，则回显信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=13;strokeColor=#6C8EBF;strokeWidth=2;exitX=1;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qzuz3q-X96KGlrMmshsN-371" target="qzuz3q-X96KGlrMmshsN-373">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="500" y="1380" as="sourcePoint" />
+            <mxPoint x="730" y="1350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-377" value="校验如果缓存中不存在数据，则直接进入添加界面" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=13;strokeColor=#6C8EBF;strokeWidth=2;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qzuz3q-X96KGlrMmshsN-370" target="qzuz3q-X96KGlrMmshsN-367">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="1600" as="sourcePoint" />
+            <mxPoint x="720" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-378" value="从共通组FTE中获取负责服务改善对应事项的担当列表" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=13;strokeColor=#6C8EBF;strokeWidth=2;exitX=0.54;exitY=0.698;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qzuz3q-X96KGlrMmshsN-367" target="qzuz3q-X96KGlrMmshsN-379">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="800" y="1420" as="sourcePoint" />
+            <mxPoint x="1210" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-380" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBorderColor=none;fontSize=13;strokeColor=#6C8EBF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1520" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-382" value="返回对应担当数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=13;strokeColor=#6C8EBF;strokeWidth=2;entryX=1.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qzuz3q-X96KGlrMmshsN-380">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="1520" as="sourcePoint" />
+            <mxPoint x="1130" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzuz3q-X96KGlrMmshsN-385" value="保存操作，将报告数据存入缓存中" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=13;strokeColor=#6C8EBF;strokeWidth=2;" edge="1" parent="1" target="qzuz3q-X96KGlrMmshsN-366">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1600" as="sourcePoint" />
+            <mxPoint x="650" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
